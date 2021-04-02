@@ -1,4 +1,4 @@
-# Data Science Project Template
+# House Price Prediction with Statistical Learning Methods
 
 Template adapted from [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 
