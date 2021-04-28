@@ -1,4 +1,4 @@
-# STAT-380
+# STAT-380 Kaggle Competitions 
 Data Science Through Statistical Reasoning and Computation
 
 Project 1: House Price Prediction
