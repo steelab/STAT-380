@@ -1,0 +1,11 @@
+install.packages("data.table",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+install.packages("Metrics")
+install.packages('caret')
+install.packages('xgboost')
+install.packages('dplyr')
+
+library(data.table)
+library(Metrics)
+library(caret)
+library(xgboost)
+library(dplyr)
